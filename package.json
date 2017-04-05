@@ -1,0 +1,19 @@
+{
+  "name": "ui-lab-skeleton",
+  "version": "1.0.0",
+  "description": "An electron application skeleton for ui-lab",
+  "main": "app/main.js",
+
+  "author": "Team: muon",
+  "license": "MIT",
+
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/gleuchner/ui-lab-examples.git",
+  "dependencies": {
+    "electron": "~1.6.2"
+  }
+}
+
+
